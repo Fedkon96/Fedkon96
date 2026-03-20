@@ -17,7 +17,7 @@
     <img src="https://github.com/user-attachments/assets/6a574ffa-f650-441d-92db-b33f26a674e9" width="250" height="141" alt="Lo-Fi Music" />
   </a>
   <br />
-  <p><i>🎧 Натисни 👆 , не сумуй під час перегляду профіля!)</i></p>
+  <p><i>🎧 Натисни 👆 (<b>ЧЕРЕЗ CTRL</b>), не сумуй під час перегляду профіля!)</i></p>
 </div>
 
 
