@@ -7,4 +7,11 @@
 * 📫 **Як зі мною зв'язатися:** [LinkedIn](https://www.linkedin.com/in/fedir-konopelko-6a8544385) | [Email](mailto:fedirkonopelko@gmail.com)
 * ⚡ **Цікавий факт:** Окрім програмування, займаюсь волонтерством.
 
-<p align="center"><a href="https://youtu.be/zw32g1IlYbQ" target="_blank"><img src="https://github.com/user-attachments/assets/6a574ffa-f650-441d-92db-b33f26a674e9" width="250" height="141" alt="Lo-Fi Music" /></a><br><i>🎧 Натисни, не сумуй під час перегляду профіля!)</i></p>
+<div align="center">
+  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1" height="141" alt="" />
+  <a href="https://youtu.be/zw32g1IlYbQ" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6a574ffa-f650-441d-92db-b33f26a674e9" width="250" height="141" alt="Lo-Fi Music" />
+  </a>
+  <br />
+  <p><i>🎧 Натисни, не сумуй під час перегляду профіля!)</i></p>
+</div>
